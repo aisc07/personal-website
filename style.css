@@ -1,0 +1,34 @@
+header{
+    background-color: white;
+}
+h1{ text-align: left;
+    color: black;
+
+}
+
+body{
+    background-color: black;
+}
+
+a{
+    color:black;
+}
+
+.Navigation_Bar{
+    text-align: right;
+    font-size: xx-large;
+}
+
+.Poem{
+    text-align: center;
+    color: white;
+    font-size: large;
+    font-family:Georgia;
+    margin-top: 75px;
+}
+
+img{
+    margin-top: 100px;
+    height: 700px;
+    width:700px;
+}
