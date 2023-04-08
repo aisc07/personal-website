@@ -1,7 +1,11 @@
 header{
     background-color: white;
+    overflow:hidden;
 }
 h1{ text-align: left;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:75px  ;
+    text-indent: 50px;
     color: black;
 
 }
@@ -9,21 +13,20 @@ h1{ text-align: left;
 body{
     background-color: black;
 }
-
 a{
-    color:black;
+    color: black;
 }
-
 .Navigation_Bar{
     text-align: right;
-    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
 }
 
 .Poem{
     text-align: center;
     color: white;
     font-size: large;
-    font-family:Georgia;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     margin-top: 75px;
 }
 
@@ -31,4 +34,10 @@ img{
     margin-top: 100px;
     height: 700px;
     width:700px;
+}
+
+p{
+    text-indent: 50px;
+    text-align:center;
+    text-anchor: middle;
 }
