@@ -9,7 +9,16 @@ h1{ text-align: left;
     color: black;
 
 }
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
 
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+}
 body{
     background-color: black;
 }
@@ -23,7 +32,7 @@ a{
 }
 
 .Poem{
-    text-align: center;
+    text-align: left;
     color: white;
     font-size: large;
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -36,16 +45,10 @@ img{
     width:700px;
 }
 
-p{
-    text-indent: 50px;
-    text-align:center;
-    text-anchor: middle;
-}
 .hobbies{ 
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
-
-
-
+    text-align:center;
+    text-anchor: middle;
 
 }
