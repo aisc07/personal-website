@@ -28,6 +28,67 @@ body{
     color: white;
 }
 
+.Homecircle{
+    position: absolute;
+    border-radius: 50%;
+}
+.circle1{
+    background-color:rgba(255, 255, 255, 0.205);
+    width: 150px;
+    height: 150px;
+    top: 100px;
+    left: 100px;
+    z-index: 2;
+}
+.circle2{
+    background-color:rgba(255, 255, 255, 0.205) ;
+    width: 200px;
+    height: 200px;
+    top: 250px;
+    left: 300px;
+    z-index: 2;
+}
+.circle3{
+    background-color: rgba(255, 255, 255, 0.205);
+    width: 250px;
+    height: 250px;
+    top: 900px;
+    left: 600px;
+    z-index: 2;
+}
+.circle4{
+    background-color:rgba(255, 255, 255, 0.205) ;
+    width: 300px;
+    height: 300px;
+    top: 500px;
+    left: 500px;
+    z-index: 2;
+}
+
+.circle5{
+    background-color:rgba(255, 255, 255, 0.205);
+    width: 150px;
+    height: 150px;
+    top: 100px;
+    left: 2250px;
+    z-index: 2;
+}
+.circle6{
+    background-color:rgba(255, 255, 255, 0.205) ;
+    width: 300px;
+    height: 300px;
+    top: 500px;
+    left: 2000px;
+    z-index: 2;
+}
+
+.circle7{
+
+}
+.circle8{
+
+}
+
 .Thinking{
     margin-top: 100px;
     height: 700px;
@@ -41,6 +102,8 @@ body{
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-style: italic ;
     margin-top: 75px;
+
+
 }
 
 .hobbies{ 
