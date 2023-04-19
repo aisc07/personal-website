@@ -6,17 +6,18 @@ h1{ text-align: left;
     text-indent: 30px;
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size:60px  ;
-    
     color: white;
-
 }
+
 h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 35px;
 }
+
 a{
     color: white;
 }
+
 body{
     background-color:indigo;
 }
@@ -73,20 +74,32 @@ body{
     left: 2250px;
     z-index: 2;
 }
+
 .circle6{
     background-color:rgba(255, 255, 255, 0.205) ;
-    width: 300px;
-    height: 300px;
-    top: 500px;
+    width: 200px;
+    height: 200px;
+    top: 250px;
     left: 2000px;
     z-index: 2;
 }
 
-.circle7{
 
+.circle7{
+    background-color: rgba(255, 255, 255, 0.205);
+    width: 250px;
+    height: 250px;
+    top: 900px;
+    left: 1650px;
+    z-index: 2;
 }
 .circle8{
-
+    background-color:rgba(255, 255, 255, 0.205) ;
+    width: 300px;
+    height: 300px;
+    top: 500px;
+    left: 1750px;
+    z-index: 2;
 }
 
 .Thinking{
@@ -110,7 +123,7 @@ body{
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
-    text-align:left;
+    text-align:center;
     text-anchor: middle;
 }
 
@@ -133,6 +146,7 @@ body{
 .portfolio{
     color: white;
     font-size: 25px;
+    text-align: center;
     
 }
 
