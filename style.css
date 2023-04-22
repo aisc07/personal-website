@@ -332,32 +332,32 @@ body{
 .music{
     margin-top: 50px;
     border-radius: 50rem;
-    height: 700px;
-    width: 700px;
+    height: 550px;
+    width: 550px;
 }
 .music:hover{
-    height: 820px;
-    width: 820px;
+    height: 625px;
+    width: 625px;
 }
 .movies{ 
     margin-top: 50px;
     border-radius: 50rem;
-    height: 700px;
-    width:700px;
+    height: 550px;
+    width:550px;
 }
 .movies:hover{
-    height: 820px;
-    width: 820px;
+    height: 625px;
+    width: 625px;
 }
-.fitness{
+.plants{
     margin-top: 50px;
     border-radius: 50rem;
-    height: 700px;
-    width:700px;
+    height: 550px;
+    width:550px;
 }
-.fitness:hover{
-    height: 820px;
-    width: 820px;
+.plants:hover{
+    height: 625px;
+    width: 625px;
 }
 
 
@@ -595,13 +595,39 @@ body{
     height: 820px;
     width: 820px;
 }
-
-.Namefield{
-    margin: 50px;
-    
+.contactme{
+    text-align: center;
+}
+.contact{
+    margin-top: 100px;
+    text-align: center;
 }
 
-.lastnameinput{
+.firstName{
+    margin-right: 1px;
+}
+.lastName{
+    margin-left: 100px;
+}
+
+.firstinput{
+    height: 30px;
+    width: 300px;
+}
+.lastinput{
+    height: 30px;
+    width: 300px;
+}
+.email{
     margin: 50px;
-    margin-left:5px;
+}
+.emailinput{
+    height: 30px;
+    width: 300px;
+}
+.message{
+    margin: 50px;
+}
+.submit{
+    margin: 50px;
 }
