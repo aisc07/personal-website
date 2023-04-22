@@ -572,8 +572,8 @@ body{
     width: 700px;
 }
 .picasso:hover{
-    height: 500px;
-    width: 800px;
+    height: 450px;
+    width: 750px;
 }
 .groceries{
     margin-top: 50px;
@@ -582,18 +582,18 @@ body{
     width:700px;
 }
 .groceries:hover{
-    height: 500px;
-    width: 800px;
+    height: 450px;
+    width: 750px;
 }
 .gamma{
     margin-top: 50px;
-    border-radius: 50rem;
-    height: 700px;
+    /* border-radius: 50rem; */
+    height: 400px;
     width:700px;
 }
 .gamma:hover{
-    height: 820px;
-    width: 820px;
+    height: 450px;
+    width: 750px;
 }
 .contactme{
     text-align: center;
