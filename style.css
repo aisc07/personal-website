@@ -595,3 +595,13 @@ body{
     height: 820px;
     width: 820px;
 }
+
+.Namefield{
+    margin: 50px;
+    
+}
+
+.lastnameinput{
+    margin: 50px;
+    margin-left:5px;
+}
