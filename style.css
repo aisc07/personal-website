@@ -565,25 +565,25 @@ body{
     font-size: 25px;
     text-align: center;
 }
-.alpha{
+.picasso{
     margin-top: 50px;
-    border-radius: 50rem;
-    height: 700px;
+    /* border-radius: 50rem; */
+    height: 400px;
+    width: 700px;
+}
+.picasso:hover{
+    height: 500px;
+    width: 800px;
+}
+.groceries{
+    margin-top: 50px;
+    /* border-radius: 50rem; */
+    height: 400px;
     width:700px;
 }
-.alpha:hover{
-    height: 820px;
-    width: 820px;
-}
-.beta{
-    margin-top: 50px;
-    border-radius: 50rem;
-    height: 700px;
-    width:700px;
-}
-.beta:hover{
-    height: 820px;
-    width: 820px;
+.groceries:hover{
+    height: 500px;
+    width: 800px;
 }
 .gamma{
     margin-top: 50px;
