@@ -595,39 +595,116 @@ body{
     height: 450px;
     width: 750px;
 }
-.contactme{
-    text-align: center;
+
+
+
+
+
+.Contactcircle{
+    position: absolute;
+    border-radius: 50%;
+}
+.circle1{
+    background-color:rgba(255, 255, 255, 0.205);
+    width: 150px;
+    height: 150px;
+    top: 100px;
+    left: 100px;
+    z-index: 2;
+}
+.circle2{
+    background-color:rgba(255, 255, 255, 0.205) ;
+    width: 200px;
+    height: 200px;
+    top: 250px;
+    left: 300px;
+    z-index: 2;
+}
+.circle3{
+    background-color: rgba(255, 255, 255, 0.205);
+    width: 250px;
+    height: 250px;
+    top: 900px;
+    left: 600px;
+    z-index: 2;
+}
+.circle4{
+    background-color:rgba(255, 255, 255, 0.205) ;
+    width: 300px;
+    height: 300px;
+    top: 500px;
+    left: 500px;
+    z-index: 2;
+}
+.circle5{
+    background-color:rgba(255, 255, 255, 0.205);
+    width: 150px;
+    height: 150px;
+    top: 100px;
+    left: 2250px;
+    z-index: 2;
+}
+.circle6{
+    background-color:rgba(255, 255, 255, 0.205) ;
+    width: 200px;
+    height: 200px;
+    top: 250px;
+    left: 2000px;
+    z-index: 2;
+}
+.circle7{
+    background-color: rgba(255, 255, 255, 0.205);
+    width: 250px;
+    height: 250px;
+    top: 900px;
+    left: 1650px;
+    z-index: 2;
+}
+.circle8{
+    background-color:rgba(255, 255, 255, 0.205) ;
+    width: 300px;
+    height: 300px;
+    top: 500px;
+    left: 1750px;
+    z-index: 2;
 }
 .contact{
-    margin-top: 100px;
+    margin-top: 50px;
     text-align: center;
+    
 }
-
-.firstName{
-    margin-right: 1px;
+.name{
+    margin-right: 30px;
+    margin: 20px;
 }
-.lastName{
-    margin-left: 100px;
-}
-
-.firstinput{
-    height: 30px;
-    width: 300px;
-}
-.lastinput{
-    height: 30px;
-    width: 300px;
+.nameinput{
+    height: 40px;
+    width: 380px;
 }
 .email{
-    margin: 50px;
+    margin: 45px;
+}
+.emailname{
+    margin-right: 35px;
+    margin: 20px;
 }
 .emailinput{
-    height: 30px;
-    width: 300px;
+    height: 40px;
+    width: 380px;
 }
-.message{
-    margin: 50px;
+.messagename{
+    margin-left: 35px;
+    margin: 20px;
+}
+.textarea{
+    margin-right: 30px;
 }
 .submit{
-    margin: 50px;
+    margin: 35px;
+    margin-left: 455px;
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+    color: white;
+    background-color: rgba(255, 255, 255, 0.205);
 }
